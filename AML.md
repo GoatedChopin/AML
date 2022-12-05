@@ -2376,7 +2376,10 @@ plt.show()
     
 <!-- ![png](AML_files/AML_129_0.png) -->
     
-![image](https://user-images.githubusercontent.com/85979611/205758328-372d2b94-2799-40fe-a9e2-7888adb2002b.png)
+<!-- ![image](https://user-images.githubusercontent.com/85979611/205758328-372d2b94-2799-40fe-a9e2-7888adb2002b.png) -->
+
+![image](https://user-images.githubusercontent.com/85979611/205758474-993831d3-39fa-46b3-a722-a11c4b19c7b1.png)
+
 
 
 <br>
