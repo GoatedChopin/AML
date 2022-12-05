@@ -1892,8 +1892,9 @@ plt.show()
 
 
     
-![png](AML_files/AML_105_0.png)
+<!-- ![png](AML_files/AML_105_0.png) -->
     
+![image](https://user-images.githubusercontent.com/85979611/205758649-4fb2e445-7b93-4b53-9f6e-fe8c4e0c7b0a.png)
 
 
 Success! the model's loss consistently improves over the epochs, in both training and validation data.
@@ -1915,8 +1916,9 @@ plt.show()
 
 
     
-![png](AML_files/AML_108_0.png)
+<!-- ![png](AML_files/AML_108_0.png) -->
     
+![image](https://user-images.githubusercontent.com/85979611/205758724-95163785-cada-464c-bcfc-c4cdd816619a.png)
 
 
 Accuracy improves as we train, even on unseen data. This is exactly what we were hoping to see.
